@@ -1,23 +1,23 @@
 [
   {
     "rank": 1,
+    "users": ["RaptorBlue765"],
+    "points": 13030
+  },
+  {
+    "rank": 2,
     "users": ["ryan-saxena", "kool-car-guy"],
     "points": 4950
   },
   {
-    "rank": 2,
+    "rank": 3,
     "users": ["cyrilalex"],
     "points": 4035
   },
   {
-    "rank": 3,
+    "rank": 4,
     "users": ["MythicalMastery", "TheNationalChessGames"],
     "points": 3250
-  },
-  {
-    "rank": 4,
-    "users": ["RaptorBlue765"],
-    "points": 3030
   },
   {
     "rank": 5,
