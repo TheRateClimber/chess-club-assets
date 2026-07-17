@@ -1,73 +1,73 @@
 [
   {
     "rank": 1,
+    "users": ["Stellar_Endgame"],
+    "points": 20050
+  },
+  {
+    "rank": 2,
     "users": ["RaptorBlue765"],
     "points": 13030
   },
   {
-    "rank": 2,
+    "rank": 3,
     "users": ["ryan-saxena", "kool-car-guy"],
     "points": 4950
   },
   {
-    "rank": 3,
+    "rank": 4,
     "users": ["cyrilalex"],
     "points": 4035
   },
   {
-    "rank": 4,
+    "rank": 5,
     "users": ["MythicalMastery", "TheNationalChessGames"],
     "points": 3250
   },
   {
-    "rank": 5,
+    "rank": 6,
     "users": ["Not-Ori"],
     "points": 2502
   },
   {
-    "rank": 6,
+    "rank": 7,
     "users": ["sam45584"],
     "points": 2500
   },
   {
-    "rank": 7,
+    "rank": 8,
     "users": ["MeAngel13"],
     "points": 1710
   },
   {
-    "rank": 8,
+    "rank": 9,
     "users": ["Kaisa_14"],
     "points": 1700
   },
   {
-    "rank": 9,
+    "rank": 10,
     "users": ["tony9jh", "tony9jh_car"],
     "points": 660
   },
   {
-    "rank": 10,
+    "rank": 11,
     "users": ["AkatsukiFork"],
     "points": 150
   },
   {
-    "rank": 11,
+    "rank": 12,
     "users": ["killer-kyle"],
     "points": 150
   },
   {
-    "rank": 12,
+    "rank": 13,
     "users": ["silent-sniper"],
     "points": 100
   },
   {
-    "rank": 13,
+    "rank": 14,
     "users": ["boba12345678910111214"],
     "points": 60
-  },
-  {
-    "rank": 14,
-    "users": ["Stellar_Endgame"],
-    "points": 50
   },
   {
     "rank": 15,
