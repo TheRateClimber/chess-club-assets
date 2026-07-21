@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "users": ["MythicalMastery", "TheNationalChessGames"],
+    "points": 73250
+  }
+  {
+    "rank": 4,
     "users": ["Stellar_Endgame"],
     "points": 25050
   },
   {
-    "rank": 4,
+    "rank": 5,
     "users": ["ryan-saxena", "kool-car-guy"],
     "points": 4950
-  },
-  {
-    "rank": 5,
-    "users": ["MythicalMastery", "TheNationalChessGames"],
-    "points": 3250
   },
   {
     "rank": 6,
